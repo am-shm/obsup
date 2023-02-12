@@ -1,2 +1,2 @@
 # obsup
-Make your obsidian notes available everywhere with gh repo.
+Make your [Obsidian](https://obsidian.md/) notes available everywhere with gh repo.
