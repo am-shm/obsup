@@ -3,7 +3,8 @@
 LINK="https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian-1.1.9.AppImage"
 
 clear
-echo "OBSIDIAN INSTALLATION \n"
+echo "OBSIDIAN INSTALLATION"
+echo ""
 printf "Check your connection and press Return..."
 read consub
 echo "Downloading Obsidian AppImage in /tmp ..."
