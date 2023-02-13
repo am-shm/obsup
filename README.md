@@ -1,6 +1,6 @@
-<center>
-# OBSUP
-</center>
+<p align="center">
+	<h1>OBSUP</h1>
+</p>
 
 # OveralView
 Make your [Obsidian](https://obsidian.md/) notes available everywhere with gh repo.
