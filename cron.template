@@ -1,0 +1,3 @@
+# update every 30 minute
+
+*/30 * * * * obsup
